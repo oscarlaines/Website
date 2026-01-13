@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Fresh Touch | Pintura Comercial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(90deg, #0d47a1, #1976d2);
+            color: white;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        .card {
+            background: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0d47a1;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .cta {
+            background: #1976d2;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .cta a {
+            background: white;
+            color: #1976d2;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 15px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Botón WhatsApp */
+        .whatsapp {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #25D366;
+            color: white;
+            padding: 15px 22px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            z-index: 1000;
+        }
+        .whatsapp:hover {
+            background: #1ebe5d;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Fresh Touch</h1>
+    <p>Pintura Comercial Profesional</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>Sobre Nosotros</h2>
+        <p>
+            En <strong>Fresh Touch</strong> ofrecemos servicios profesionales de pintura comercial
+            para oficinas, locales, bodegas y edificios comerciales.
+            Nos enfocamos en calidad, limpieza y cumplimiento de tiempos.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Servicios</h2>
+        <ul>
+            <li>Pintura interior y exterior comercial</li>
+            <li>Oficinas y edificios corporativos</li>
+            <li>Locales comerciales</li>
+            <li>Bodegas e instalaciones industriales</li>
+            <li>Mantenimiento y repintado</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>¿Por Qué Elegir Fresh Touch?</h2>
+        <ul>
+            <li>✔ Trabajo profesional y garantizado</li>
+            <li>✔ Materiales de alta calidad</li>
+            <li>✔ Puntualidad y limpieza</li>
+            <li>✔ Precios competitivos</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Contacto</h2>
+        <p><strong>Teléfono / WhatsApp:</strong> 619-990-6907</p>
+        <p><strong>Ubicación:</strong> Laurel, Delaware 19957</p>
+        <p><strong>Atendemos:</strong> Laurel y áreas cercanas</p>
+    </div>
+</section>
+
+<div class="cta">
+    <h2>Cotización Gratis</h2>
+    <p>Escríbenos hoy y transforma tu espacio comercial</p>
+    <a href="tel:16199906907">Llamar ahora</a>
+</div>
+
+<footer>
+    <p>© 2026 Fresh Touch | Todos los derechos reservados</p>
+</footer>
+
+<!-- Botón WhatsApp -->
+<a class="whatsapp" href="https://wa.me/16199906907" target="_blank">
+    💬 WhatsApp
+</a>
+
+</body>
+</html>
+	◦	
